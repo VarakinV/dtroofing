@@ -172,15 +172,19 @@ export default function CedarRoofingPage() {
             <div className="gallery">
               <figure className="shot reveal">
                 <img src="/brand/cedar/web/cedar-round.jpg" alt="Sweeping curved cedar shake roof against blue sky" loading="lazy" width="1050" height="1400" />
-                <figcaption><b>Cedar Shake</b><span>Curved roof · character home</span></figcaption>
+                <figcaption><b>Cedar Shingle</b><span>Curved roof · character home</span></figcaption>
               </figure>
               <figure className="shot reveal">
                 <img src="/brand/cedar/web/cedar-3.jpg" alt="Cedar shake roof with stone chimney" loading="lazy" width="1050" height="1400" />
-                <figcaption><b>Cedar Shake</b><span>Stone chimney · Westman home</span></figcaption>
+                <figcaption><b>Cedar Shingle</b><span>Stone chimney · Westman home</span></figcaption>
               </figure>
               <figure className="shot reveal">
                 <img src="/brand/cedar/web/cedar-2.jpg" alt="Sweeping cedar shingle roof field" loading="lazy" width="1050" height="1400" />
                 <figcaption><b>Cedar Shingle</b><span>Full roof · in progress</span></figcaption>
+              </figure>
+              <figure className="shot reveal">
+                <img src="/brand/cedar/web/cedar-home.jpg" alt="Cedar shingle roof on a character home" loading="lazy" width="1050" height="1400" />
+                <figcaption><b>Cedar Shingle</b><span>Character home</span></figcaption>
               </figure>
             </div>
           </div>
