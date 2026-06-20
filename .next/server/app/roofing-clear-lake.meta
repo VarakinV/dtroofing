@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/roofing-clear-lake/layout,_N_T_/roofing-clear-lake/page,_N_T_/roofing-clear-lake"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/roofing-clear-lake/__PAGE__",
+    "/roofing-clear-lake",
+    "/_index",
+    "/_head"
+  ]
+}

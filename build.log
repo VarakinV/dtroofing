@@ -1,0 +1,31 @@
+
+> dtroofing-next@0.1.0 build
+> next build
+
+▲ Next.js 16.2.7 (Turbopack)
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 1410ms
+  Running TypeScript ...
+  Finished TypeScript in 1928ms ...
+  Collecting page data using 23 workers ...
+Error: export const dynamic = "force-static"/export const revalidate not configured on route "/sitemap.xml" with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+    at module evaluation (C:\Users\volod\Desktop\NextJS\dtroofing\.next\server\chunks\[root-of-the-server]__0ou3s5g._.js:1:5459)
+    at instantiateModule (C:\Users\volod\Desktop\NextJS\dtroofing\.next\server\chunks\[turbopack]_runtime.js:853:9)
+    at instantiateRuntimeModule (C:\Users\volod\Desktop\NextJS\dtroofing\.next\server\chunks\[turbopack]_runtime.js:882:12)
+    at getOrInstantiateRuntimeModule (C:\Users\volod\Desktop\NextJS\dtroofing\.next\server\chunks\[turbopack]_runtime.js:895:12)
+    at Object.m (C:\Users\volod\Desktop\NextJS\dtroofing\.next\server\chunks\[turbopack]_runtime.js:898:18)
+    at Object.<anonymous> (C:\Users\volod\Desktop\NextJS\dtroofing\.next\server\app\sitemap.xml\route.js:5:3)
+Error: export const dynamic = "force-static"/export const revalidate not configured on route "/robots.txt" with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+    at module evaluation (C:\Users\volod\Desktop\NextJS\dtroofing\.next\server\chunks\[root-of-the-server]__0519vx2._.js:1:1689)
+    at instantiateModule (C:\Users\volod\Desktop\NextJS\dtroofing\.next\server\chunks\[turbopack]_runtime.js:853:9)
+    at instantiateRuntimeModule (C:\Users\volod\Desktop\NextJS\dtroofing\.next\server\chunks\[turbopack]_runtime.js:882:12)
+    at getOrInstantiateRuntimeModule (C:\Users\volod\Desktop\NextJS\dtroofing\.next\server\chunks\[turbopack]_runtime.js:895:12)
+    at Object.m (C:\Users\volod\Desktop\NextJS\dtroofing\.next\server\chunks\[turbopack]_runtime.js:898:18)
+    at Object.<anonymous> (C:\Users\volod\Desktop\NextJS\dtroofing\.next\server\app\robots.txt\route.js:5:3)
+
+> Build error occurred
+Error: Failed to collect page data for /sitemap.xml
+    at ignore-listed frames {
+  type: 'Error'
+}

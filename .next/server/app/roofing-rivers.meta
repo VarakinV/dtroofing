@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/roofing-rivers/layout,_N_T_/roofing-rivers/page,_N_T_/roofing-rivers"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/roofing-rivers/__PAGE__",
+    "/roofing-rivers",
+    "/_index",
+    "/_head"
+  ]
+}

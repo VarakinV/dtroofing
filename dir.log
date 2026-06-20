@@ -1,0 +1,13 @@
+.next
+app
+build.log
+dir.log
+dist
+next-env.d.ts
+next.config.ts
+node_modules
+package-lock.json
+package.json
+public
+source
+tsconfig.json

@@ -1,0 +1,22 @@
+User-Agent: *
+Allow: /
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: PerplexityBot
+Allow: /
+
+User-Agent: ClaudeBot
+Allow: /
+
+User-Agent: cohere-ai
+Allow: /
+
+User-Agent: Bytespider
+Allow: /
+
+Sitemap: https://dtroofing.org/sitemap.xml

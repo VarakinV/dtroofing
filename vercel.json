@@ -1,0 +1,284 @@
+{
+  "redirects": [
+    {
+      "source": "/services/roofing-company-in-virden-mb",
+      "destination": "/roofing-virden",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-virden-mb/",
+      "destination": "/roofing-virden",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-rivers-mb",
+      "destination": "/roofing-rivers",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-rivers-mb/",
+      "destination": "/roofing-rivers",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-minnedosa-mb",
+      "destination": "/roofing-minnedosa",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-minnedosa-mb/",
+      "destination": "/roofing-minnedosa",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-neepawa-mb",
+      "destination": "/roofing-neepawa",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-neepawa-mb/",
+      "destination": "/roofing-neepawa",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-carberry-mb",
+      "destination": "/roofing-carberry",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-carberry-mb/",
+      "destination": "/roofing-carberry",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-wawanesa-mb",
+      "destination": "/roofing-wawanesa",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-wawanesa-mb/",
+      "destination": "/roofing-wawanesa",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-killarney-mb",
+      "destination": "/roofing-killarney",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-killarney-mb/",
+      "destination": "/roofing-killarney",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-boissevain-mb",
+      "destination": "/roofing-boissevain",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-boissevain-mb/",
+      "destination": "/roofing-boissevain",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-melita-mb",
+      "destination": "/roofing-melita",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-melita-mb/",
+      "destination": "/roofing-melita",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-reston-mb",
+      "destination": "/roofing-reston",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-reston-mb/",
+      "destination": "/roofing-reston",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-souris-mb",
+      "destination": "/roofing-souris",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-souris-mb/",
+      "destination": "/roofing-souris",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-russell-mb",
+      "destination": "/roofing-russell",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/roofing-company-in-russell-mb/",
+      "destination": "/roofing-russell",
+      "statusCode": 301
+    },
+    {
+      "source": "/shingles",
+      "destination": "/shingle-roofing",
+      "statusCode": 301
+    },
+    {
+      "source": "/shingles/",
+      "destination": "/shingle-roofing",
+      "statusCode": 301
+    },
+    {
+      "source": "/iko-shingles",
+      "destination": "/shingle-roofing",
+      "statusCode": 301
+    },
+    {
+      "source": "/iko-shingles/",
+      "destination": "/shingle-roofing",
+      "statusCode": 301
+    },
+    {
+      "source": "/certainteed-shingles",
+      "destination": "/shingle-roofing",
+      "statusCode": 301
+    },
+    {
+      "source": "/certainteed-shingles/",
+      "destination": "/shingle-roofing",
+      "statusCode": 301
+    },
+    {
+      "source": "/malarkey-shingles",
+      "destination": "/shingle-roofing",
+      "statusCode": 301
+    },
+    {
+      "source": "/malarkey-shingles/",
+      "destination": "/shingle-roofing",
+      "statusCode": 301
+    },
+    {
+      "source": "/crc-shingles",
+      "destination": "/shingle-roofing",
+      "statusCode": 301
+    },
+    {
+      "source": "/crc-shingles/",
+      "destination": "/shingle-roofing",
+      "statusCode": 301
+    },
+    {
+      "source": "/euroshield",
+      "destination": "/cedar-roofing",
+      "statusCode": 301
+    },
+    {
+      "source": "/euroshield/",
+      "destination": "/cedar-roofing",
+      "statusCode": 301
+    },
+    {
+      "source": "/enviroshake",
+      "destination": "/cedar-roofing",
+      "statusCode": 301
+    },
+    {
+      "source": "/enviroshake/",
+      "destination": "/cedar-roofing",
+      "statusCode": 301
+    },
+    {
+      "source": "/composite-roofing",
+      "destination": "/cedar-roofing",
+      "statusCode": 301
+    },
+    {
+      "source": "/composite-roofing/",
+      "destination": "/cedar-roofing",
+      "statusCode": 301
+    },
+    {
+      "source": "/eavestrough-services",
+      "destination": "/siding-eavestrough",
+      "statusCode": 301
+    },
+    {
+      "source": "/eavestrough-services/",
+      "destination": "/siding-eavestrough",
+      "statusCode": 301
+    },
+    {
+      "source": "/siding-services",
+      "destination": "/siding-eavestrough",
+      "statusCode": 301
+    },
+    {
+      "source": "/siding-services/",
+      "destination": "/siding-eavestrough",
+      "statusCode": 301
+    },
+    {
+      "source": "/roofing-services",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/roofing-services/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services-cat/westman-area",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services-cat/westman-area/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/services/",
+      "destination": "/",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog",
+      "destination": "/guides",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog/",
+      "destination": "/guides",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog-2",
+      "destination": "/guides",
+      "statusCode": 301
+    },
+    {
+      "source": "/blog-2/",
+      "destination": "/guides",
+      "statusCode": 301
+    },
+    {
+      "source": "/safety",
+      "destination": "/about",
+      "statusCode": 301
+    },
+    {
+      "source": "/safety/",
+      "destination": "/about",
+      "statusCode": 301
+    }
+  ]
+}

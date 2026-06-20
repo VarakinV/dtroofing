@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/guide-roof-replacement-costs-materials/layout,_N_T_/guide-roof-replacement-costs-materials/page,_N_T_/guide-roof-replacement-costs-materials"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/guide-roof-replacement-costs-materials/__PAGE__",
+    "/guide-roof-replacement-costs-materials",
+    "/_index",
+    "/_head"
+  ]
+}
