@@ -49,7 +49,7 @@ export default function GuideReplacementCostsPage() {
           <div className="container">
             <p className="eyebrow">Guide</p>
             <h1>Roof Replacement: Costs, Materials &amp; What to Expect</h1>
-            <p className="lead">Shingle vs. metal vs. cedar vs. composite for Manitoba weather \u2014 and what actually drives the price of a re-roof.</p>
+            <p className="lead">Shingle vs. metal vs. cedar vs. composite for Manitoba weather — and what actually drives the price of a re-roof.</p>
           </div>
         </section>
         <nav className="breadcrumb" aria-label="Breadcrumb">
@@ -63,30 +63,30 @@ export default function GuideReplacementCostsPage() {
         <section className="section">
           <div className="container">
             <div className="article reveal">
-              <p className="guide-meta">D.T Roofing \u00b7 Brandon, MB</p>
-              <p className="lead">When it\u2019s time for a new roof, the two questions are always the same: what material, and what does it cost? Here\u2019s how we\u2019d walk you through it.</p>
-              <h2>How to know it\u2019s time</h2>
-              <p>Widespread curling or granule loss, leaks in more than one place, or a roof simply at the end of its years \u2014 once you\u2019re patching every season, a re-roof is usually the cheaper path in the long run.</p>
+              <p className="guide-meta">D.T Roofing · Brandon, MB</p>
+              <p className="lead">When it's time for a new roof, the two questions are always the same: what material, and what does it cost? Here's how we'd walk you through it.</p>
+              <h2>How to know it's time</h2>
+              <p>Widespread curling or granule loss, leaks in more than one place, or a roof simply at the end of its years — once you're patching every season, a re-roof is usually the cheaper path in the long run.</p>
               <h2>Your material options</h2>
               <h3>Asphalt shingle</h3>
-              <p>Still the most popular roof for good reason \u2014 clean, dependable and the friendliest on the budget. Done with a proper tear-off and ventilation, it\u2019s a solid choice. See <Link href="/shingle-roofing">shingle roofing</Link>.</p>
+              <p>Still the most popular roof for good reason — clean, dependable and the friendliest on the budget. Done with a proper tear-off and ventilation, it's a solid choice. See <Link href="/shingle-roofing">shingle roofing</Link>.</p>
               <h3>Metal</h3>
-              <p>On the prairies the real win with metal is how it holds up in wind when it\u2019s installed correctly \u2014 plus it sheds snow on its own and lasts decades instead of the 15-year asphalt cycle. We roll-form our own standing seam on site, and we also install metal shingles. See <Link href="/metal-roofing">metal roofing</Link>.</p>
+              <p>On the prairies the real win with metal is how it holds up in wind when it's installed correctly — plus it sheds snow on its own and lasts decades instead of the 15-year asphalt cycle. We roll-form our own standing seam on site, and we also install metal shingles. See <Link href="/metal-roofing">metal roofing</Link>.</p>
               <h3>Cedar</h3>
-              <p>Natural character for heritage homes and cottages, with warmth you can\u2019t fake. It rewards a careful install. See <Link href="/cedar-roofing">cedar roofing</Link>.</p>
+              <p>Natural character for heritage homes and cottages, with warmth you can't fake. It rewards a careful install. See <Link href="/cedar-roofing">cedar roofing</Link>.</p>
               <h3>Composite</h3>
-              <p>Modern materials \u2014 like Euroshield rubber and Enviroshake \u2014 that give a premium look with strong impact resistance.</p>
+              <p>Modern materials — like Euroshield rubber and Enviroshake — that give a premium look with strong impact resistance.</p>
               <h2>What drives the cost</h2>
               <p>Every roof is different, so we quote each one free rather than guess. The big factors:</p>
               <ul>
-                <li><strong>Material</strong> \u2014 asphalt is the most affordable; metal and cedar are premium, long-life options</li>
-                <li><strong>Size and pitch</strong> \u2014 steeper, bigger roofs take more material and time</li>
-                <li><strong>Complexity</strong> \u2014 valleys, dormers, chimneys and skylights all add detailing</li>
-                <li><strong>Tear-off</strong> \u2014 removing the old roof and what\u2019s underneath</li>
+                <li><strong>Material</strong> — asphalt is the most affordable; metal and cedar are premium, long-life options</li>
+                <li><strong>Size and pitch</strong> — steeper, bigger roofs take more material and time</li>
+                <li><strong>Complexity</strong> — valleys, dormers, chimneys and skylights all add detailing</li>
+                <li><strong>Tear-off</strong> — removing the old roof and what's underneath</li>
               </ul>
               <h2>What to expect</h2>
               <p>A free quote and an honest recommendation, a proper tear-off, the right underlay and ventilation, a tidy install, and a clean site when we leave. Our installs are fully insured and workmanship guaranteed.</p>
-              <div className="callout"><p><strong>The bottom line:</strong> we\u2019ll give you the best roof your budget allows and tell you honestly where your money is best spent. Metal if you want the last roof you\u2019ll buy; quality asphalt if value matters most.</p></div>
+              <div className="callout"><p><strong>The bottom line:</strong> we'll give you the best roof your budget allows and tell you honestly where your money is best spent. Metal if you want the last roof you'll buy; quality asphalt if value matters most.</p></div>
             </div>
           </div>
         </section>
@@ -95,7 +95,7 @@ export default function GuideReplacementCostsPage() {
             <div className="reveal">
               <p className="eyebrow" style={{ color: "var(--gold-bright,#E6C66A)" }}>Free quotes</p>
               <h2 className="section-title">Questions About Your Roof?</h2>
-              <p className="lead">Get a free, no-pressure quote and a straight answer from a local family that\u2019s roofed the Westman area for over 60 years.</p>
+              <p className="lead">Get a free, no-pressure quote and a straight answer from a local family that's roofed the Westman area for over 60 years.</p>
               <div className="hero-actions">
                 <a href="https://book.servicem8.com/request_booking?uuid=35334f4b-042f-4ed5-8290-11f5bde290ab" target="_blank" rel="noopener" className="btn btn-primary">
                   Request a Free Quote

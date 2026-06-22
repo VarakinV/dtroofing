@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 const title = "Roof Repair vs Replacement | D.T Roofing Brandon";
-const description = "When a roof repair makes sense, when it doesn\u2019t, and what it costs in Brandon, MB. An honest guide from D.T Roofing on repair vs. replacement.";
+const description = "When a roof repair makes sense, when it doesn't, and what it costs in Brandon, MB. An honest guide from D.T Roofing on repair vs. replacement.";
 const url = "https://dtroofing.org/guide-roof-repair-vs-replacement/";
 const image = "https://dtroofing.org/brand/metstar/web/slate-grey.jpg";
 
@@ -49,7 +49,7 @@ export default function GuideRepairVsReplacePage() {
           <div className="container">
             <p className="eyebrow">Guide</p>
             <h1>Roof Repair: When to Fix and When to Replace</h1>
-            <p className="lead">How to tell whether your roof needs a repair or a replacement \u2014 from a third-generation Brandon roofer.</p>
+            <p className="lead">How to tell whether your roof needs a repair or a replacement — from a third-generation Brandon roofer.</p>
           </div>
         </section>
         <nav className="breadcrumb" aria-label="Breadcrumb">
@@ -63,29 +63,29 @@ export default function GuideRepairVsReplacePage() {
         <section className="section">
           <div className="container">
             <div className="article reveal">
-              <p className="guide-meta">D.T Roofing \u00b7 Brandon, MB</p>
-              <p className="lead">A leak or some storm damage doesn\u2019t always mean a new roof. Here\u2019s how we decide between a repair and a replacement \u2014 and how you can tell which one you\u2019re probably looking at.</p>
+              <p className="guide-meta">D.T Roofing · Brandon, MB</p>
+              <p className="lead">A leak or some storm damage doesn't always mean a new roof. Here's how we decide between a repair and a replacement — and how you can tell which one you're probably looking at.</p>
               <h2>When a repair makes sense</h2>
               <p>If the damage is localized and the rest of the roof is in good shape, a repair is usually the right call. Good signs for a repair:</p>
               <ul>
                 <li>A handful of shingles lost to wind, in one area</li>
                 <li>An isolated leak around a vent, chimney or valley</li>
-                <li>A roof that\u2019s still relatively young, with shingles that are still sealed down</li>
-                <li>Flashing that\u2019s come loose but is otherwise sound</li>
+                <li>A roof that's still relatively young, with shingles that are still sealed down</li>
+                <li>Flashing that's come loose but is otherwise sound</li>
               </ul>
-              <p>For a standard shingle repair we charge a flat <Link href="/roof-repair">$274.39 plus GST</Link> \u2014 one hour on site plus a bundle of shingles \u2014 with extra time billed hourly and ridge cap or flashing extra. You can book one online without playing phone tag.</p>
-              <h2>When a patch won\u2019t hold</h2>
-              <p>The thing most homeowners can\u2019t see from the ground is whether the shingles around the damage have lost their seal. Once that seal is gone, a patch won\u2019t survive the next big prairie wind \u2014 and you\u2019ve paid twice. That\u2019s the moment a repair stops being worth it.</p>
+              <p>For a standard shingle repair we charge a flat <Link href="/roof-repair">$274.39 plus GST</Link> — one hour on site plus a bundle of shingles — with extra time billed hourly and ridge cap or flashing extra. You can book one online without playing phone tag.</p>
+              <h2>When a patch won't hold</h2>
+              <p>The thing most homeowners can't see from the ground is whether the shingles around the damage have lost their seal. Once that seal is gone, a patch won't survive the next big prairie wind — and you've paid twice. That's the moment a repair stops being worth it.</p>
               <p>Lean toward replacement when:</p>
               <ul>
                 <li>Shingles are brittle, curling or losing granules across the whole roof</li>
-                <li>You\u2019ve had leaks in more than one spot</li>
-                <li>The roof is near the end of its life and you\u2019d be patching every year</li>
+                <li>You've had leaks in more than one spot</li>
+                <li>The roof is near the end of its life and you'd be patching every year</li>
                 <li>A storm has bruised or cracked shingles over a wide area</li>
               </ul>
               <h2>Storm and hail damage</h2>
-              <p>Hail damage often isn\u2019t obvious from the ground, so after a confirmed storm \u2014 especially on a roof over 15 years old \u2014 it\u2019s worth a proper look. If the damage is real, we document it the right way and can help you through your <Link href="/insurance-claims">insurance claim</Link>. Our <Link href="/inspections">roof inspections</Link> page has more on what we check.</p>
-              <div className="callout"><p><strong>The bottom line:</strong> we\u2019ll tell you straight which one you need. If a repair will genuinely do the job, we\u2019ll do that instead of selling you a roof you don\u2019t need. If it won\u2019t hold, we\u2019ll say so \u2014 and why.</p></div>
+              <p>Hail damage often isn't obvious from the ground, so after a confirmed storm — especially on a roof over 15 years old — it's worth a proper look. If the damage is real, we document it the right way and can help you through your <Link href="/insurance-claims">insurance claim</Link>. Our <Link href="/inspections">roof inspections</Link> page has more on what we check.</p>
+              <div className="callout"><p><strong>The bottom line:</strong> we'll tell you straight which one you need. If a repair will genuinely do the job, we'll do that instead of selling you a roof you don't need. If it won't hold, we'll say so — and why.</p></div>
             </div>
           </div>
         </section>
@@ -94,7 +94,7 @@ export default function GuideRepairVsReplacePage() {
             <div className="reveal">
               <p className="eyebrow" style={{ color: "var(--gold-bright,#E6C66A)" }}>Free quotes</p>
               <h2 className="section-title">Questions About Your Roof?</h2>
-              <p className="lead">Get a free, no-pressure quote and a straight answer from a local family that\u2019s roofed the Westman area for over 60 years.</p>
+              <p className="lead">Get a free, no-pressure quote and a straight answer from a local family that's roofed the Westman area for over 60 years.</p>
               <div className="hero-actions">
                 <a href="https://book.servicem8.com/request_booking?uuid=35334f4b-042f-4ed5-8290-11f5bde290ab" target="_blank" rel="noopener" className="btn btn-primary">
                   Request a Free Quote
